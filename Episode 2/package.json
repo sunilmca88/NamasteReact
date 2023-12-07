@@ -1,0 +1,29 @@
+{
+  "name": "episode-2",
+  "version": "1.0.0",
+  "description": "Code of episode 2 of Namaste React",
+  "main": "App.js",
+  "scripts": {
+    "start": "npx parcel index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunilmca88/NamasteReact.git"
+  },
+  "keywords": [],
+  "author": "Sunil Kr Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunilmca88/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/sunilmca88/NamasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
